@@ -49,7 +49,7 @@ Accede a la aplicación a través de tu navegador en http://localhost:8080/.
 
 ##Finalmente, dejo algunas imagenes del sistema web
 
-![Pagina de inicio](images/index.png)
+![Pagina de inicio](images/Index.png)
 
 ![Agregar Cliente](images/agregarCliente.png)
 
